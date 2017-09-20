@@ -1,0 +1,5 @@
+Which of is input Device?
+Mouse
+KeyBoard
+Printer
+Moniter
